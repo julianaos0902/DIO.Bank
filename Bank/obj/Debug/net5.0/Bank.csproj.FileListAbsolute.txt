@@ -1,0 +1,16 @@
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.exe
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.deps.json
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.dll
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\ref\Bank.dll
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\bin\Debug\net5.0\Bank.pdb
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.dll
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\ref\Bank.dll
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.pdb
+D:\DIO\Primeiros passos com .NET C#\ProjetosPraticos\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
